@@ -1,0 +1,4 @@
+// TASKING VX-toolset for ARM
+// Project linker script file
+// 
+#include <device.lsl>

@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project t ****
+
+"C:\\Program Files (x86)\\TASKING\\carm v5.0r1\\bin\\amk" -j4 all -a 
+Compiling t.cpp
+Linking to t.abs
+
+Time consumed: 9567 ms
+**** End of build ****

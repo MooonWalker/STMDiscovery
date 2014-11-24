@@ -1,0 +1,13 @@
+--cpu Cortex-M4.fp
+".\flash\blinky.o"
+".\flash\keyboard.o"
+".\flash\led.o"
+".\flash\rtx_conf_cm.o"
+"C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS_RTX\Lib\ARM\RTX_CM4.lib"
+".\flash\system_stm32f4xx.o"
+".\flash\startup_stm32f40_41xxx.o"
+".\flash\gpio_stm32f4xx.o"
+--library_type=microlib --strict --scatter ".\Flash\Blinky.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Flash\Blinky.map" -o .\Flash\Blinky.axf

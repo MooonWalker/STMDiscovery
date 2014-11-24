@@ -1,0 +1,56 @@
+Dependencies for Project 'Blinky', Target 'STM32F407 Flash': (DO NOT MODIFY !)
+F (.\STM32F40xxx_41xxx_OPT.s)(0x52C6C3FA)()
+F (.\Blinky.c)(0x518B3B64)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver-D_RTE_ -DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\flash\blinky.o --omf_browse .\flash\blinky.crf --depend .\flash\blinky.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\STM32F4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BAB7D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h)(0x522D9D58)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\LED.h)(0x5165332A)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\Keyboard.h)(0x518B3B64)
+F (.\Abstract.txt)(0x52C6C3FA)()
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\Keyboard.c)(0x518B3B64)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver-D_RTE_ -DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\flash\keyboard.o --omf_browse .\flash\keyboard.crf --depend .\flash\keyboard.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\Keyboard.h)(0x518B3B64)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver\GPIO_STM32F4xx.h)(0x52D7ABF4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\stm32f4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BAB7D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h)(0x522D9D58)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h)(0x529F1D92)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\LED.c)(0x5165332A)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver-D_RTE_ -DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\flash\led.o --omf_browse .\flash\led.crf --depend .\flash\led.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\LED.h)(0x5165332A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver\GPIO_STM32F4xx.h)(0x52D7ABF4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\stm32f4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BAB7D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h)(0x522D9D58)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h)(0x529F1D92)
+F (RTE\Device\STM32F407VG\RTE_Device.h)(0x52F0C3E8)()
+F (RTE\Device\STM32F407VG\system_stm32f4xx.c)(0x529F2312)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver-D_RTE_ -DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\flash\system_stm32f4xx.o --omf_browse .\flash\system_stm32f4xx.crf --depend .\flash\system_stm32f4xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\stm32f4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BAB7D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h)(0x522D9D58)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h)(0x529F1D92)
+F (RTE\Device\STM32F407VG\startup_stm32f40_41xxx.s)(0x529F2312)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver--list .\flash\startup_stm32f40_41xxx.lst --xref -o .\flash\startup_stm32f40_41xxx.o --depend .\flash\startup_stm32f40_41xxx.d)
+F (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver\GPIO_STM32F4xx.c)(0x51418878)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE-I C:\DATA\Dropbox\STmdiscovery\examples\Boards\ST\STM32F4-Discovery\Blinky\RTE\Device\STM32F407VG-I C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include-I C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver-D_RTE_ -DSTM32F40_41xxx -DHSE_VALUE="8000000" -o .\flash\gpio_stm32f4xx.o --omf_browse .\flash\gpio_stm32f4xx.crf --depend .\flash\gpio_stm32f4xx.d)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\RTE_Driver\GPIO_STM32F4xx.h)(0x52D7ABF4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x52FE34EE)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\stm32f4xx.h)(0x529F1D92)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h)(0x51BAB7D4)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h)(0x512C80D2)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h)(0x522D9D58)
+I (C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h)(0x529F1D92)

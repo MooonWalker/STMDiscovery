@@ -1,0 +1,9 @@
+
+**** Build of configuration Debug for project tc ****
+
+"C:\\Program Files (x86)\\TASKING\\carm v5.0r1\\bin\\amk" -j4 all -a 
+Compiling tc.c
+Linking to tc.abs
+
+Time consumed: 404 ms
+**** End of build ****

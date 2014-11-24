@@ -1,0 +1,11 @@
+.\flash\blinky.o: Blinky.c
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\STM32F4xx.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4.h
+.\flash\blinky.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmInstr.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cmFunc.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\3.20.4\CMSIS\Include\core_cm4_simd.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Device\Include\system_stm32f4xx.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\LED.h
+.\flash\blinky.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\1.0.6\Boards\ST\STM32F4-Discovery\Common\Keyboard.h
